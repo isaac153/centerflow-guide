@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 센터플로우 사용자 가이드
+  structure:
+    - type: space
+      key: space-1
+      title: 센터플로우 사용자 가이드
+      path: kicc
+      default: true
+      content:
+        directory: ./kicc
